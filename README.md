@@ -1,5 +1,26 @@
 # Code of Conduct Guidelines
 
+* [Comments](#comments)
+  * [Steps](#steps)
+  * [Conflict resolution](#conflict-resolution)
+  * [Allowances](#allowances)
+  * [Removal](#removal)
+  * [Encoding](#encoding)
+  * [Implicit or explicit](#implicit-or-explicit)
+  * [Formalizing](#formalizing)
+  * [Process](#process)
+  * [Conferences](#conferences)
+  * [Racism, sexism](#racism-sexism)
+  * [Cultural areas](#cultural-areas)
+  * [Safe spaces](#safe-spaces)
+  * [Codes of conduct vs. legal structures](#codes-of-conduct-vs-legal-structures)
+  * [Zero-tolerance](#zero-tolerance)
+  * [Bad actors](#bad-actors)
+  * [Contributors](#contributors)
+  * [Individual or organizational](#individual-or-organizational)
+  * [Challenges](#challenges)
+  * [TODO](#todo)
+
 
 ## Comments
 
