@@ -2,6 +2,8 @@
 
 A code of conduct is a set of guidelines, principles, values, standards, guidelines, or rules of behaviour. A code of conduct guides the decisions, procedures, and systems of an organization to help the welfare of its stakeholders, and to respect the rights of its constituents. See [Wikipedia](https://en.wikipedia.org/wiki/Code_of_conduct).
 
+Externally, a code serves several important purposes: compliance such as with legislatiog; marketing such as a company showing it stands for high standards and right conduct; risk mitigation, such as reducing financial risks associated with government fines for ethical misconduct. The ethics perspective is by [Ethics &amp; Compliance Initiative](https://www.ethics.org/resources/free-toolkit/code-of-conduct/).
+
 This page has discussion that can help you understand what makes a good code of conduct, based on many peoples' experiences. We welcome help with this, and feedback, and advice. Discussion is edited for context, clarity, continuity, and anonymity. The discussion is thanks to [Hacker News](https://news.ycombinator.com/item?id=24926214).
 
 Contents:
