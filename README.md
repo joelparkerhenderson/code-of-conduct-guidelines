@@ -17,15 +17,16 @@ Contents:
 * [Code of conduct for working together](#code-of-conduct-for-working-together)
   * [Cultural areas](#cultural-areas)
   * [Safe spaces](#safe-spaces)
-  * [Conferences](#conferences)
   * [Racism, sexism](#racism-sexism)
   * [Codes of conduct vs. legal structures](#codes-of-conduct-vs-legal-structures)
-* [Challenges](#challenges)
+* [Particpation areas](#particpation-areas)
   * [Individual or organizational](#individual-or-organizational)
-  * [Contributors](#contributors)
+  * [Contributors to open source](#contributors-to-open-source)
+  * [Conferences](#conferences)
+* [Challenges](#challenges)
+  * [Enforcement and adjudication](#enforcement-and-adjudication)
   * [Zero-tolerance](#zero-tolerance)
   * [Bad actors](#bad-actors)
-  * [Enforcement and adjudication](#enforcement-and-adjudication)
 * [Codes of Conduct from tech organizations](#codes-of-conduct-from-tech-organizations)
 * [Reading](#reading)
 * [TODO](#todo)
@@ -108,13 +109,6 @@ Like any other system of laws, a code of conduct necessarily restricts the bound
 A functioning code of conduct should make the difference between someone saying “I don’t understand why anyone would believe X”, which is an open statement that invites thoughtful discussion, versus “X is stupid and anyone who believes it is an idiot”, which is a closed statement that triggers fighting instead.
 
 
-### Conferences
-
-People who organise conferences have told me that there's a level of craziness that most attendees or speakers aren't exposed to. I don't know if a code of conduct makes their job easier or not, but glib dismissal fails to take into account that conference organisers don't enjoy judicial immunity and enforcement of anything -- be it written in a code of conduct or just common sense -- can make them liable for damages. One way to protect yourself is with a system of due process, and some lawyers think that a written code is helpful in establishing due process while others disagree.
-
-If there are multiple organisers then it makes sense for them to talk amongst themselves, decide what they disagree on, and document it. That sort of CoC makes sense - one that the organisers use to settle their own disputes.
-
-
 ### Racism, sexism
 
 I think the problem is essentially this: if you're a white male, you may essentially never experience or see racism / sexism in tech. If you are a woman or black or ... you will very likely experience sexism or racism. You will probably also see more, because you are used to identifying it.
@@ -133,7 +127,7 @@ The legal system is very slow, very hard to report to, and in some cases activel
 FWIW, I know someone who wasn't able to get a police report for assault but was able to ban someone from an event.
 
 
-## Challenges
+## Particpation areas
 
 
 ### Individual or organizational
@@ -141,13 +135,32 @@ FWIW, I know someone who wasn't able to get a police report for assault but was 
 Individuals might have the right to disassociate, but organizations have more power then individuals, and concentrate power in the hands of a small number of people, and thus should have some democratic checks on that power. Elections are one form of democratic check on power, but a randomized selection of peers works as a statistically sampled approximation, which is why the concept of a jury exists. Any organization without democratic checks to redistribute power to its constituents is generally seeking to hold hierarchical power over those constituents and others, and should be distrusted.
 
 
-### Contributors
+### Contributors to open source
 
 I think that a lot of prospective contributors (such as myself) do not want to be part of a community unless it is run by such a system. I also think that such contributors will be particularly incensed about contributing to such communities that say they are run by such systems but which are actually oligarchies. In that case, I would feel like I had originally contributed to the community as an equal, but I am instead now just a cog helping build someone else's dream. This will not just discourage me from contributing to the community, but it will make me regret ever doing so in the first place, and resent the community's leaders for lying to me.
 
 I avoid giving my time to open source projects that have CoC's like the Contributor Covenant, mainly because - if my experience is anything to go by - they are a strong signal that the kind of people I wish to avoid will be involved. I want to contribute things that (hopefully) improve the world in objective ways, not be involved in the wrangling and petty politics of a fiefdom just so I can get something like a bug report considered.
 
 Some CoCs require you to check a box that you've read and agree to the CoC before you participate. What do you do in those situations if you do not like the CoC? Do you just check the box anyway, or not particpate?
+
+
+### Conferences
+
+People who organise conferences have told me that there's a level of craziness that most attendees or speakers aren't exposed to. I don't know if a code of conduct makes their job easier or not, but glib dismissal fails to take into account that conference organisers don't enjoy judicial immunity and enforcement of anything -- be it written in a code of conduct or just common sense -- can make them liable for damages. One way to protect yourself is with a system of due process, and some lawyers think that a written code is helpful in establishing due process while others disagree.
+
+If there are multiple organisers then it makes sense for them to talk amongst themselves, decide what they disagree on, and document it. That sort of CoC makes sense - one that the organisers use to settle their own disputes.
+
+
+## Challenges
+
+
+### Enforcement and adjudication
+
+The big themes in all the most exasperating cases to do with CoC enforcement: 1. Wide difference between rules as written and agreed to versus how they are applied. 2. Unchecked power for enforcers, who can flout punishment/scrutiny. 3. Insufficient interest from parties not directly impacted.
+
+CoC enforcement is not without its flaws, and policing interpersonal interaction is never going to be a hard and fast thing. But CoCs give everyone tools to nudge behavior away from what is objectively causing (subjective) distress.
+
+Rarely are creators of a CoC trained or able to run an adjucation process.
 
 
 ### Zero-tolerance
@@ -168,15 +181,6 @@ It's worth thinking about how people operating in bad faith (either on the commi
 I think many of the people who write CoCs are oblivious to the fact that people lie, or may just be unreliable witnesses. 
 
 If you punish anyone who has a report filed against them without evaluating those reports or requesting any proof, then you will quickly be left with a small pool of very manipulative people looking to game the system.
-
-
-### Enforcement and adjudication
-
-The big themes in all the most exasperating cases to do with CoC enforcement: 1. Wide difference between rules as written and agreed to versus how they are applied. 2. Unchecked power for enforcers, who can flout punishment/scrutiny. 3. Insufficient interest from parties not directly impacted.
-
-CoC enforcement is not without its flaws, and policing interpersonal interaction is never going to be a hard and fast thing. But CoCs give everyone tools to nudge behavior away from what is objectively causing (subjective) distress.
-
-Rarely are creators of a CoC trained or able to run an adjucation process.
 
 
 ## Codes of Conduct from tech organizations
