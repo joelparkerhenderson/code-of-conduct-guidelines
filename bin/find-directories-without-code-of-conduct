@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Find directories without a file CODE_OF_CONDUCT.md.
+#
+# This script is intended to be an example; 
+# you should customize it for your needs.
+
+find . -mindepth 1 -maxdepth 1 -type d '!' -exec test -e "{}/CODE_OF_CONDUCT.md" ';' -print
